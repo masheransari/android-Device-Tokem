@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "465951779456",
+    "firebase_url": "https://generate-token.firebaseio.com",
+    "project_id": "generate-token",
+    "storage_bucket": "generate-token.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465951779456:android:ce9fdd52f0f2d548",
+        "android_client_info": {
+          "package_name": "com.example.asheransari.firebase_token"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465951779456-kauj8o2rn6q7g9eifojvoe0f9s8iq1nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAje9yPxXXefvMbq3upDSbIpbEJGA_jKHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
